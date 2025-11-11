@@ -16,7 +16,7 @@ body {
 }
 
 #titulo {
-    
+
 }
 
 p {
@@ -46,4 +46,10 @@ button{
     font-size: 16px;
     color: rgb(255, 0, 132);
 
+}
+
+.imagem{
+    width: 300px;   
+    height: 200px; 
+    object-fit: cover; 
 }
