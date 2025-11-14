@@ -1,8 +1,8 @@
-body { 
-    background-color:rgb(148, 171, 235);
+body {
+    background-color: rgb(148, 171, 235);
 }
 
-.cabecalho{
+.cabecalho {
     background-color: rgba(27, 40, 226, 0.575);
     color: whitesmoke;
     padding-top: 30px;
@@ -15,29 +15,25 @@ body {
     gap: 30%;
 }
 
-#titulo {
-
-}
-
 .imgcentro {
-width: 300px;   
-    height: 200px; 
+    width: 300px;
+    height: 200px;
     object-fit: cover;
 }
 
-li{
+li {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    font-size:30px;
+    font-size: 30px;
 }
 
-li a{
-   text-decoration: none;
+li a {
+    text-decoration: none;
     color: black;
 }
 
-button{
+button {
     font-size: 16px;
     color: rgb(122, 180, 228);
 }
