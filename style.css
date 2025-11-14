@@ -3,7 +3,7 @@ body {
 }
 
 .cabecalho{
-    background-color: rgb(77, 61, 61);
+    background-color: rgba(27, 40, 226, 0.575);
     color: whitesmoke;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -31,6 +31,7 @@ li{
 
 li a{
     font-size: 50px;
+    color: black;
 }
 
 button{
