@@ -37,21 +37,3 @@ button{
     font-size: 16px;
     color: rgb(122, 180, 228);
 }
-
-.container {
-    position: relative;
-    width: 400px;
-}
-
-.imagem {
-    width: 100%;
-    display: block;
-}
-
-.texto {
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    color: rgb(0, 0, 0);
-    font-size: 18px;
-}
