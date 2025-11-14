@@ -64,6 +64,8 @@ button {
    object-fit: cover; /* Mantém a proporção e recorta a imagem se necessário */
  }
 
- @media screen and {
-    max-width: [tamnho_em_px];  
+ @media (max-width:758px) {
+     body{
+     font-size: 80px;
+    }
  }
