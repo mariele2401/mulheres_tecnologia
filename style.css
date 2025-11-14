@@ -49,3 +49,17 @@ button {
     bottom: 0;
     width: 100%;
 }
+
+.imagem{
+  width: 190px; 
+  height: auto; 
+  border-radius: 10px; 
+  object-fit: cover; 
+  display: inline-block;
+}
+
+ img {
+    width: 200px;
+   height: 200px;
+   object-fit: cover; /* Mantém a proporção e recorta a imagem se necessário */
+ }
