@@ -27,6 +27,9 @@ width: 300px;
 
 li{
     display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
 }
 
 li a{
