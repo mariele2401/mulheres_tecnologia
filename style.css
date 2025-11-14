@@ -63,3 +63,7 @@ button {
    height: 200px;
    object-fit: cover; /* Mantém a proporção e recorta a imagem se necessário */
  }
+
+ @media screen and {
+    max-width: [tamnho_em_px];  
+ }
