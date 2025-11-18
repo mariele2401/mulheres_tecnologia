@@ -63,7 +63,7 @@ img {
     object-fit: cover;
 }
 
-p .voltar{
+.voltar a{
     font-size: 20px;
     text-align: center;
     margin: 30px;
