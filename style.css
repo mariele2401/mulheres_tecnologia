@@ -64,9 +64,12 @@ img {
 }
 
 .voltar a{
-    font-size: 20px;
     text-align: center;
     margin: 30px;
+}
+
+.voltar a{
+    font-size: 20px;
     padding: 10px;
     width: 200px;
     border: 1px;
