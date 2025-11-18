@@ -75,6 +75,10 @@ img {
     width: 200px;
     border: 1px;
     border-radius: 5px;
+    text-decoration: none;
+    color: ;
+    font-family: ;
+    
 }
 
 @media (max-width:758px) {
